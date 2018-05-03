@@ -1,0 +1,43 @@
+Running: C:\Xilinx\14.5\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o G:/Sem-6/Lab Based Project/Viterbi/Communication_Channel_isim_beh.exe -prj G:/Sem-6/Lab Based Project/Viterbi/Communication_Channel_beh.prj work.Communication_Channel work.glbl 
+ISim P.58f (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "G:/Sem-6/Lab Based Project/Viterbi/SPDu.v" into library work
+Analyzing Verilog file "G:/Sem-6/Lab Based Project/Viterbi/Selector.v" into library work
+Analyzing Verilog file "G:/Sem-6/Lab Based Project/Viterbi/Mux.v" into library work
+Analyzing Verilog file "G:/Sem-6/Lab Based Project/Viterbi/SPD.v" into library work
+Analyzing Verilog file "G:/Sem-6/Lab Based Project/Viterbi/PMSM.v" into library work
+Analyzing Verilog file "G:/Sem-6/Lab Based Project/Viterbi/BMU.v" into library work
+Analyzing Verilog file "G:/Sem-6/Lab Based Project/Viterbi/ACS.v" into library work
+Analyzing Verilog file "G:/Sem-6/Lab Based Project/Viterbi/Xor_2bit.v" into library work
+Analyzing Verilog file "G:/Sem-6/Lab Based Project/Viterbi/Viterbi_Decoder.v" into library work
+Analyzing Verilog file "G:/Sem-6/Lab Based Project/Viterbi/Pipe_2bit.v" into library work
+Analyzing Verilog file "G:/Sem-6/Lab Based Project/Viterbi/Pipe.v" into library work
+Analyzing Verilog file "G:/Sem-6/Lab Based Project/Viterbi/Generate_Noise.v" into library work
+Analyzing Verilog file "G:/Sem-6/Lab Based Project/Viterbi/Convolutional_Encoder.v" into library work
+Analyzing Verilog file "G:/Sem-6/Lab Based Project/Viterbi/Communication_Channel.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.5/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module BMU
+Compiling module ACS
+Compiling module PMSM
+Compiling module SPDu
+Compiling module Selector
+Compiling module Mux
+Compiling module SPD
+Compiling module Viterbi_Decoder
+Compiling module Convolutional_Encoder
+Compiling module Generate_Noise
+Compiling module Xor_2bit
+Compiling module Pipe_2bit
+Compiling module Pipe
+Compiling module Communication_Channel
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 8 sub-compilation(s) to finish...
+Compiled 15 Verilog Units
+Built simulation executable G:/Sem-6/Lab Based Project/Viterbi/Communication_Channel_isim_beh.exe
+Fuse Memory Usage: 27256 KB
+Fuse CPU Usage: 562 ms

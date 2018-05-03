@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "G:/Sem-6/Lab Based Project/Viterbi/Communication_Channel_isim_beh.exe" -prj "G:/Sem-6/Lab Based Project/Viterbi/Communication_Channel_beh.prj" "work.Communication_Channel" "work.glbl" 

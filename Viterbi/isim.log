@@ -1,0 +1,109 @@
+ISim log file
+Running: G:\Sem-6\Lab Based Project\Viterbi\Communication_Channel_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb G:/Sem-6/Lab Based Project/Viterbi/Communication_Channel_isim_beh.wdb 
+ISim P.58f (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+ << Starting the simulation >>
+Finished circuit initialization process.
+000
+000
+000
+xx0
+x00
+xx0
+010
+100
+100
+100
+100
+010
+100
+010
+010
+000
+010
+010
+000
+100
+000
+100
+000
+010
+010
+000
+100
+110
+000
+110
+100
+000
+010
+100
+100
+010
+110
+000
+000
+110
+100
+000
+010
+100
+100
+100
+000
+110
+110
+010
+100
+010
+110
+000
+000
+000
+110
+100
+110
+110
+010
+010
+110
+000
+000
+000
+110
+010
+100
+100
+100
+010
+110
+110
+010
+100
+010
+110
+110
+010
+010
+000
+010
+010
+000
+010
+100
+010
+000
+010
+010
+110
+000
+000
+110
+010
+010
+110
