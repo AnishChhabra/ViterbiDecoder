@@ -1,0 +1,8 @@
+verilog work "SPDu.v"
+verilog work "Selector.v"
+verilog work "Mux.v"
+verilog work "SPD.v"
+verilog work "PMSM.v"
+verilog work "BMU.v"
+verilog work "ACS.v"
+verilog work "Viterbi_Decoder.v"

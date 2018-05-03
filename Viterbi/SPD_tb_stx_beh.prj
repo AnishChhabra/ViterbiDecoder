@@ -1,0 +1,6 @@
+verilog isim_temp "SPDu.v"
+verilog isim_temp "Selector.v"
+verilog isim_temp "Mux.v"
+verilog isim_temp "SPD.v"
+verilog isim_temp "SPD_tb.v"
+verilog isim_temp "C:/Xilinx/14.5/ISE_DS/ISE//verilog/src/glbl.v"

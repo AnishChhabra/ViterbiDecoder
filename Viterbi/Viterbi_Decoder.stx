@@ -1,0 +1,51 @@
+Release 14.5 - xst P.58f (nt64)
+Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to G:/Sem-6/Lab Based Project/Viterbi/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.09 secs
+ 
+--> Parameter xsthdpdir set to G:/Sem-6/Lab Based Project/Viterbi/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.09 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "SPDu.v" in library work
+Compiling verilog file "Selector.v" in library work
+Module <SPDu> compiled
+Compiling verilog file "Mux.v" in library work
+Module <Selector> compiled
+Compiling verilog file "SPD.v" in library work
+Module <Mux> compiled
+Compiling verilog file "PMSM.v" in library work
+Module <SPD> compiled
+Compiling verilog file "BMU.v" in library work
+Module <PMSM> compiled
+Compiling verilog file "ACS.v" in library work
+Module <BMU> compiled
+Compiling verilog file "Viterbi_Decoder.v" in library work
+Module <ACS> compiled
+Module <Viterbi_Decoder> compiled
+No errors in compilation
+Analysis of file <"Viterbi_Decoder.prj"> succeeded.
+ 
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.17 secs
+ 
+--> 
+
+Total memory usage is 204936 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

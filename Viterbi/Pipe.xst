@@ -1,0 +1,5 @@
+set -tmpdir "G:/Sem-6/Lab Based Project/Viterbi/xst/projnav.tmp"
+set -xsthdpdir "G:/Sem-6/Lab Based Project/Viterbi/xst"
+elaborate
+-ifn Pipe.prj
+-ifmt mixed
