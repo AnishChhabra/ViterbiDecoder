@@ -1,0 +1,28 @@
+Command line:
+   Communication_Channel_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  57797
+
+Thu May 03 18:30:40 2018
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 357.548 Meg
+
+ Total Signals          : 314
+ Total Nets             : 175
+ Total Signal Drivers   : 112
+ Total Blocks           : 32
+ Total Primitive Blocks : 29
+ Total Processes        : 238
+ Total Traceable Variables  : 277
+ Total Scalar Nets and Variables : 997
+
+ Total Simulation Time: 0.0625 sec
+
+ Current Memory Usage: 357.548 Meg
+
+Thu May 03 19:21:21 2018
+
